@@ -32,6 +32,7 @@
 
 ## 📁 Project Structure
 
+```
 /index.php → Displays all travel entries
 /form.php → Form to add new entries
 /uploads/ → Stores uploaded images
