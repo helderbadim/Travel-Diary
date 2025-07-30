@@ -45,6 +45,7 @@
 /styles/
 └─ styles.css → Custom styles
 └─ normalize.css → Normalize default browser styles
+```
 
 ---
 
